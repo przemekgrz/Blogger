@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CNNfU4FuSjcKWZ9vDcui1n5Wb8hUqUtZHAMCPahwzmUTNaDV01iQ3O5zU8WSquqUab6HGYSxS8YL3+jKm5cLdg==",
+  "dgSpecHash": "hEb6dIk5sR4nGENGrWGV7dBInrxPpOIVVhwRVKwh2EPUEQNgueisrwTtSqc9RrtVoMj0ldjGJpF+BYiYhOPdjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\Blogger\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

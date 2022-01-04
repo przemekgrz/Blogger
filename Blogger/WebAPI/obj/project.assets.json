@@ -2274,11 +2274,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\Blogger\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\Blogger\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\przemek_g2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\Blogger\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2302,11 +2302,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\Application\\Application.csproj"
+            "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\Blogger\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\Blogger\\Application\\Application.csproj"
             },
-            "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\Blogger\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\Blogger\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

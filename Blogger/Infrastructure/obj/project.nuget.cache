@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tRsNN8IjEuoIWJh7W6IvH2M2ugaPFC+U03mxgvdioqT+7Hr5OK4TaJ6u0QUN7RkMqJWIWS2UbmlosOc3rq+TQQ==",
+  "dgSpecHash": "GsYPPKPEvMeKZkW1fkjILd/yqk3KMmpqyQ7f+bd3b6RB2JAdmimujpTw42/SofI5WMqR/9sBLhgKnLQS5VWntw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\przemek_g2\\Source\\Repos\\Blogger\\Blogger\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\przemek_g2\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\przemek_g2\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
